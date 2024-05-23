@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497782321380",
+    "project_id": "bec-fd-notifications",
+    "storage_bucket": "bec-fd-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497782321380:android:48911049b9a206e3f4fcf1",
+        "android_client_info": {
+          "package_name": "com.bec.demo.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdRdlWaVQLjSTKreQK4b4ilVaAXHrR7O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

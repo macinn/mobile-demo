@@ -8,7 +8,8 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "notification": {
-      "icon": "./assets/images/push-icon.png"
+      "icon": "./assets/images/push-icon.png",
+      "sounds": ["./assets/sounds/siren.wav"]
     },
     "splash": {
       "resizeMode": "contain",
